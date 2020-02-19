@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=./gif.gif title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src=./giff.gif title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 ## Notes
 - Set Root View Controller segue for navigation controller.
